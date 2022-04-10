@@ -2,7 +2,7 @@
 <!-- ![profile_pic](https://user-images.githubusercontent.com/67053237/162601416-5078faab-7fd9-4803-9da7-62d7290c5af1.png) -->
 
 <h1 align="center">Hi 👋, I'm Caleb Matteis</h1>
-<h3 align="center">A passionate Software Engineer / frontend developer from NYC</h3>
+<h3 align="center">A passionate Software Engineer / Frontend Developer from NYC</h3>
 
 - 🔭 I’m currently working on [freelance projects](https://incredible-crumble-d741a8.netlify.app/)
 
