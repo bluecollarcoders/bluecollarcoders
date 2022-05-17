@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Software Engineer / Frontend Developer from NYC</h3>
 
 <p align="center">
-  <a href="https://calebmatteis.tech" target="_blank">
+  <a href="https://www.calebmatteis.tech/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
