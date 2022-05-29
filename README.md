@@ -1,6 +1,8 @@
 
 <!-- ![profile_pic](https://user-images.githubusercontent.com/67053237/162601416-5078faab-7fd9-4803-9da7-62d7290c5af1.png) -->
 
+![Github Banner](https://user-images.githubusercontent.com/67053237/170852628-6aba6a53-607d-4096-886b-33e252027fcb.png)
+
 
 <h3 align="center">A passionate Software Engineer / Frontend Developer from NYC</h3>
 
