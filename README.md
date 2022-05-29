@@ -28,7 +28,7 @@
   <table bordercoler='#66b2b2'>
   <tr>
      <td width="50%" valign="top">
-      <h3 align="center">Sessions</h3>
+      <h3 align="center">Weather Me</h3>
         <br />
         <a target="_blank" href="https://weather-me-city.herokuapp.com/">
             <img src="images/weather me.gif" width="100%" alt="Sessions App"/>
@@ -46,15 +46,15 @@
         <p><strong>Python, Bulma, CSS, Flask, & PostgreSQL</strong> - Weather Me allows users to to get the weather in any city at anywhere!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Sessions"</h3>
+      <h3 align="center">Sessions</h3>
         <br />
-      <a target="_blank" href="">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://sessions.surge.sh/">
+            <img src="image/sessions.gif" width="100%"  alt="Sessions"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
