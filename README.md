@@ -20,9 +20,12 @@
 <!--   <a href="https://shawncharles.com/resume" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
-  
-  Software Engineer with 8+ years of customer service experience. I help entreprenuers increase their web presence.
  </p>
+ Software Engineer with 8+ years of customer service experience. I help entreprenuers increase their web presence.
+ 
+ </br>
+ 
+ Check [my website](https://www.calebmatteis.tech/) for more information!
   
   <h1 align="center">Projects</h1>
   <table bordercoler='#66b2b2'>
