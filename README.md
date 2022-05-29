@@ -49,7 +49,7 @@
       <h3 align="center">Sessions</h3>
         <br />
       <a target="_blank" href="https://sessions.surge.sh/">
-            <img src="image/sessions.gif" width="100%"  alt="Sessions"/>
+            <img src="images/sessions.gif" width="100%"  alt="Sessions"/>
         </a>
         <br />
         <p align="center">
@@ -57,15 +57,23 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://sessions.surge.sh/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>PostgreSQL Express React and Node.js</strong> - Sessions gives record producers and recording artist a chance to collaborate and work on projects with no hassle. </p>
     </td>
-    
-    
    <tr/>
+  
+  <tr>
+    <td width="%50" valign="top">
+      <h3 align="center">Roney LLC</h3>
+  </br>
+  <a target="_blank" href="https://roneyllc.netlify.app/">
+    <img src=""/>
+  </a>
+    </td>
+  </tr>
   
   <table/>
 </p>
